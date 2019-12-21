@@ -1166,7 +1166,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__navbar-row-col {
-  width: 50%;
+  width: 30%;
   display: table-cell;
   vertical-align: middle;
 }
